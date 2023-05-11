@@ -1,2 +1,4 @@
 hello users,
 This is my 3rd git file
+
+this is new lines
